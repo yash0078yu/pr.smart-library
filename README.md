@@ -69,8 +69,3 @@ After completing this project, you can:
 * Use joins and subqueries
 * Apply aggregate and window functions
 * Use CASE expressions for conditional logic
-
----
-
-
-If you want, I can also format it in more professional college submission style 💕
