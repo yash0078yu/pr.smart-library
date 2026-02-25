@@ -69,3 +69,6 @@ After completing this project, you can:
 * Use joins and subqueries
 * Apply aggregate and window functions
 * Use CASE expressions for conditional logic
+
+  # AUTHOR
+# YASH
